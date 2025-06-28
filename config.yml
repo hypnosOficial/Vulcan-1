@@ -1,9 +1,9 @@
 ##############################################
-#    Vulcan Anti-Cheat Config By DarkSaso    #
+#    CheatX Anti-Cheat Config By Hypnos_ofc    #
 ##############################################
 
 # The prefix that will be used for all of the %prefix% messages throughout the plugin
-prefix: '&4&lVulcan &r&8»'
+prefix: '&4&lCheatX &r&8»'
 alerts:
   # This is the chat format that will be followed when a player fails a check.
   # Valid placeholders are %player% (player name), %max-vl% (max violations), %check% (name of check), %description% (check description),
